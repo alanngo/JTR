@@ -1,4 +1,6 @@
 # JTR
+This makefile utilizes John the Ripper commands to crack passwords in archived files, such as zip or rar. To use it, install VirtualBox and download the Kali ISO file.
+
 Download and install VirtualBox
   - VirtualBox: https://www.virtualbox.org/wiki/Downloads
   
